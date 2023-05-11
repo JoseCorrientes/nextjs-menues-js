@@ -1,0 +1,12 @@
+.link-item {
+  color: white;
+  text-decoration: none;
+}
+.link-item-active {
+  color: white;
+  font-weight: 800;
+  padding: 2px;
+  text-decoration: none;
+  background-color: green;
+  border-radius: 0.5rem;
+}
